@@ -1,0 +1,15 @@
+{
+  "name": "checkforban",
+  "version": "1.0.0",
+  "description": "Приложение проверяет пользователей на предмет ботоводства и бана и исключает из группы.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pavlov U.P.",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
